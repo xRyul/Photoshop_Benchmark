@@ -34,7 +34,26 @@ Except **Image Resize** with Preserve Detail 2.0 and **Content Aware Fill** whic
 2. Clone the repo `git clone https://github.com/xRyul/Photoshop_Benchmark.git`
 3. Open **Photoshop**
 4. Locate  the benchmark script "_~/Desktop/Photoshop_Speed_Benchmark/Photoshoo_Benchmark.jsx_" and simply drag and drop it into the **Photoshop**
-5. If promtped for confirmation, click `OK` to run the script
+5. If promtped for confirmation, click `OK` to run the script.
 
-It takes between 40s-2min to execute. The most important numbers to lookout for would be from Select Subject, Image Resize, and Content Aware Fill.
+**It takes between 40s-2min to execute. The most important numbers to lookout for would be from Select Subject, Image Resize, and Content Aware Fill.**
+
 ---
+# 🏁 Example results:
+### M1 Pro 32gb 1TB - PS 24.1
+![M1 Pro 32gb 1TB (Custom)](https://user-images.githubusercontent.com/47340038/179262740-1a10be93-4a71-4382-a16b-6ee2541000c0.jpg)
+
+### Ryzen 3950x - Samsung 980 Pro 1TB - Ps 23.2
+![Ryzen 3950x](https://user-images.githubusercontent.com/47340038/179261960-3718cb7a-0c79-40bd-94fa-13164cfe82cf.jpg)
+
+### Ryzen 2700x - PS 23.2
+![Ryzen 2700x_PS23_2](https://user-images.githubusercontent.com/47340038/179260549-52c4a87f-d89b-4c0d-837f-11698eef134e.jpg)
+
+### Ryzen 2700x - PS 24.1
+![Ryzen 2700x_PS23_2_23 4 1](https://user-images.githubusercontent.com/47340038/179260612-391e714a-5773-466a-a17b-259d94929e6c.jpg)
+
+
+
+
+
+ 
