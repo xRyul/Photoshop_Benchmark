@@ -1,4 +1,4 @@
-# Photoshop_Benchmark
+# Photoshop Speed Benchmark
 Small Benchmark for Photoshop. 
 
 ![Photoshop_speed_benchmark_example](https://user-images.githubusercontent.com/47340038/179255250-5907925f-b439-4abf-82a5-e293b53fada9.gif)
@@ -28,7 +28,7 @@ Most of the commands are taken from https://github.com/Adobe-CEP/CEP-Resources/t
 Except **Image Resize** with Preserve Detail 2.0 and **Content Aware Fill** which needed to be scripted through the Script Listener. 
 
 
-# To use
+# 🕹 To use
 1. Open terminal and cd into the Desktop `cd ~/Desktop/`
 2. Clone the repo `git clone https://github.com/xRyul/Photoshop_Benchmark.git`
 3. Open **Photoshop**
