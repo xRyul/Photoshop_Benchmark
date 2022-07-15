@@ -1,12 +1,13 @@
 # Photoshop Speed Benchmark
-Small Benchmark for Photoshop. 
+Small Benchmark for Photoshop 🚀
 
 ![Photoshop_speed_benchmark_example](https://user-images.githubusercontent.com/47340038/179255250-5907925f-b439-4abf-82a5-e293b53fada9.gif)
 
 Benchmark to check execution time of the following:
 - Opening Image
 - Converting to Smart Object,
-- Select Subject Crop
+- Select Subject
+- Crop
 - Resizing image to 10000pixels on the longest edge with "Preserve Details 2.0" 
 - Canvas Resize
 - Content Aware Fill.. (which you access through the menu, not SHIFT+F5)
