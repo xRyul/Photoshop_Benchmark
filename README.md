@@ -40,6 +40,13 @@ Except **Image Resize** with Preserve Detail 2.0 and **Content Aware Fill** whic
 
 ---
 # 🏁 Example results:
+
+### Mac Studio (2022) Apple M1 Max 32 GB 1TB - PS 24.5
+![Mac Studio (2022) Apple M1 Max 32 GB 1TB](https://github.com/xRyul/Photoshop_Benchmark/blob/main/Benchmark_Results/Mac%20Studio%20(2022)%20Apple%20M1%20Max%20%2032%20GB%201TB.png?raw=true)
+
+### 13700k 4800MHz rx580 z690
+![Benchmark_Results/13700k 4800MHz rx580 z690.png](https://github.com/xRyul/Photoshop_Benchmark/blob/main/Benchmark_Results/13700k%204800MHz%20rx580%20z690.png?raw=true)
+
 ### M1 Pro 32gb 1TB - PS 24.1
 ![M1 Pro 32gb 1TB (Custom)](https://user-images.githubusercontent.com/47340038/179262740-1a10be93-4a71-4382-a16b-6ee2541000c0.jpg)
 
